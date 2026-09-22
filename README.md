@@ -26,7 +26,7 @@ And to test built version in a container locally
 gulp docker
 ```
 
-View in browser:
+View in to browser:
 ```bash
 http://localhost:3000
 ```
