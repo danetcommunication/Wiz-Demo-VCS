@@ -7,7 +7,7 @@ import { exec } from 'child_process';
 import imagemin from 'gulp-imagemin';
 
 // Define paths
-const paths = {
+constt paths = {
   styles: {
     src: 'public/css/**/*.css',
     dest: 'dist/public/css/'
